@@ -11,4 +11,7 @@
     git pull
     git push
     git remote -v 
-    ###used to troubleshoot github prompting for password. if it starts with git then it's good. if it starts with https then that's why it's promoting for password
+    ###used to troubleshoot github prompting for password. 
+    ###f it starts with git then it's good. if it starts with https then that's why it's promoting for password
+
+#6 go to your github page you just created and see the html you pushed using username.github.io in which case rchaud03.github.io
