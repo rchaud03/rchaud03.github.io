@@ -1,0 +1,9 @@
+create the repo make it public and initialize
+Click on the button to clone it and use that or use git@githum.com:username/reponame
+COMMAND: git clone git@github.com:rchaud03/rchaud03.github.io.git
+go somewhere in the directory and do a git pull
+touch the file and edit it accordingly
+git status
+git add .
+git status
+git commit -m "adding version1"
